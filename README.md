@@ -12,8 +12,8 @@ Build project with Cargo
 Then :
 
 ```bash
-  ./target/debug/V2ray-Fastly-CF-Address-Optimizer "v2ray_config" "ip_list.txt" [timeout_ms]
+  ./target/debug/V2ray-Address-Optimizer "v2ray_config" "ip_list.txt" [timeout_ms]
 ```
 ```bash
-  ./target/debug/V2ray-Fastly-CF-Address-Optimizer "v2ray_config" "ip_list.txt" 3000
+  ./target/debug/V2ray-Address-Optimizer "v2ray_config" "ip_list.txt" 3000
 ```
