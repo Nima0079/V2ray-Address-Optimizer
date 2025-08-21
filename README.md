@@ -1,5 +1,5 @@
-# V2ray-Fastly-CF-Address-Optimizer
-Scanner to Find The Optimize V2Ray Addresses
+# V2ray Configs Address Optimizer
+Scanner to Find The Optimize V2Ray Config Addresses (Fastly CDN ,Cloudflare , ...)
 
 ## How to Use
 
